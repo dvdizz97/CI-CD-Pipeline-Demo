@@ -4,6 +4,9 @@ Key Responsibilities:
 
     Pipeline Development: Configured Jenkins to monitor the GitHub repository for code changes, triggering automated build and deployment processes upon each commit.​
 
+![Screenshot from 2025-02-24 03-33-45](https://github.com/user-attachments/assets/f7b446c3-8812-40dd-8d3c-3f456b1db769)
+
+
     Automation Scripting: Utilized shell scripts within Jenkins jobs to automate tasks such as code fetching, build processes, and deployment to the hosting environment.​
 
     Integration with Version Control: Established seamless integration between Jenkins and GitHub, ensuring efficient code updates and version control management.​
